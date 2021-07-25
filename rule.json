@@ -425,7 +425,7 @@
     "id": "dmhy",
     "name": "动漫花园",
     "proxy": false,
-    "url": "https://dmhy.anoneko.com",
+    "url": "https://share.dmhy.org",
     "paths": {
       "time": "/topics/list/page/{p}?keyword={k}"
     },
